@@ -14,7 +14,7 @@
 - 🎓 Étudiant en **BTS SIO, option SLAM**, à Saint-Brieuc
 - 💻 Je travaille principalement avec **HTML/Css**, **PHP / CodeIgniter 4**, **Node.js**, **JavaScript**, **MySQL** et **Kotlin** (En Cours)
 - 🚀 J'aime construire des applications complètes, du schéma de base de données à l'interface
-- 🛠️ J'ai fait un stage chez un vendeur de pièces auto — développement d'une boutique **WooCommerce**, **MySQL**, **WordPress
+- 🛠️ J'ai fait un stage chez un vendeur de pièces auto — développement d'une boutique **WooCommerce**, **MySQL**, **WordPress**
 - 🎯 À la recherche d'un **stage / alternance** en développement web
 
 <br>
