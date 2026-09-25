@@ -12,7 +12,7 @@
 ## 👋 À propos
 
 - 🎓 Étudiant en **BTS SIO, option SLAM**, à Saint-Brieuc
-- 💻 Je travaille principalement avec **PHP / CodeIgniter 4**, **Node.js**, **JavaScript**,**MySQL** et **Kotlin** (En Cours)
+- 💻 Je travaille principalement avec **HTML/Css**, **PHP / CodeIgniter 4**, **Node.js**, **JavaScript**, **MySQL** et **Kotlin** (En Cours)
 - 🚀 J'aime construire des applications complètes, du schéma de base de données à l'interface
 - 🛠️ J'ai fait un stage chez un vendeur de pièces auto — développement d'une boutique **WooCommerce**, **MySQL**, **WordPress
 - 🎯 À la recherche d'un **stage / alternance** en développement web
@@ -67,11 +67,11 @@
 
 <br>
 
-## 💬 Citation du moment
+## 💬 Citations du moment
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+[![Quotes](https://readme-typing-svg.demolab.com/?font=Georgia&size=16&pause=2500&duration=3500&color=8FB3E8&center=true&vCenter=true&width=600&lines=La+perfection+est+atteinte+quand+il+n%27y+a+plus+rien+a+retirer.+-+Saint-Exupery;Le+code+est+comme+l%27humour.+Quand+tu+dois+l%27expliquer%2C+c%27est+mauvais.+-+Cory+House;Parler%2C+c%27est+facile.+Montrez-moi+le+code.+-+Linus+Torvalds;Un+bon+code+est+sa+propre+meilleure+documentation.+-+Steve+McConnell;Avant+tout%2C+resous+le+probleme.+Ensuite%2C+ecris+le+code.+-+John+Johnson)](https://git.io/typing-svg)
 
 </div>
 
