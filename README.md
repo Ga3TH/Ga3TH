@@ -3,7 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Courgette&size=30&pause=1000&color=60A5FA&center=true&vCenter=true&random=false&width=435&lines=Hey+%F0%9F%91%8B+I'm+Gaethan;D%C3%A9veloppeur+web+en+devenir;\u00c9tudiant+BTS+SIO+SLAM)](https://git.io/typing-svg)
 
 ![Status](https://img.shields.io/badge/Statut-Ouvert%20aux%20stages%20%26%20alternances-60A5FA?style=flat-square)
-![Location](https://img.shields.io/badge/Localisation-Pl%C3%A9rin%2C%20France-1c2942?style=flat-square)
 ![Profile Views](https://komarev.com/ghpvc/?username=Ga3TH&style=flat-square&color=60A5FA&label=Vues+du+profil)
 
 </div>
@@ -13,9 +12,9 @@
 ## 👋 À propos
 
 - 🎓 Étudiant en **BTS SIO, option SLAM**, à Saint-Brieuc
-- 💻 Je travaille principalement avec **PHP / CodeIgniter 4**, **Node.js** et **MySQL**
+- 💻 Je travaille principalement avec **PHP / CodeIgniter 4**, **Node.js**, **JavaScript**,**MySQL** et **Kotlin** (En Cours)
 - 🚀 J'aime construire des applications complètes, du schéma de base de données à l'interface
-- 🛠️ Actuellement en stage chez un vendeur de pièces auto — développement d'une boutique **WooCommerce**
+- 🛠️ J'ai fait un stage chez un vendeur de pièces auto — développement d'une boutique **WooCommerce**, **MySQL**, **WordPress
 - 🎯 À la recherche d'un **stage / alternance** en développement web
 
 <br>
