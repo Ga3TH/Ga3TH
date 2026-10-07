@@ -60,6 +60,6 @@ Pour échanger au sujet d’un stage, d’une alternance ou d’un projet :
 
 <div align="center">
 
-<sub>Merci de votre visite · Gaëthan Prual</sub>
+<sub>Merci de votre visite · Gaéthan Prual</sub>
 
 </div>
