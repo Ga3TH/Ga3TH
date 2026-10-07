@@ -1,83 +1,65 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Courgette&size=30&pause=1000&color=60A5FA&center=true&vCenter=true&random=false&width=435&lines=Hey+%F0%9F%91%8B+I'm+Gaethan;D%C3%A9veloppeur+web+en+devenir;\u00c9tudiant+BTS+SIO+SLAM)](https://git.io/typing-svg)
+# Gaéthan Prual
 
-![Status](https://img.shields.io/badge/Statut-Ouvert%20aux%20stages%20%26%20alternances-60A5FA?style=flat-square)
-![Profile Views](https://komarev.com/ghpvc/?username=Ga3TH&style=flat-square&color=60A5FA&label=Vues+du+profil)
+### Étudiant développeur · BTS SIO, option SLAM
+
+Je conçois des applications web, des API et des outils — du modèle de données jusqu’à l’interface.
+
+[![GitHub](https://img.shields.io/badge/GitHub-Ga3TH-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/Ga3TH)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Découvrir-2563EB?style=flat-square&logo=firefoxbrowser&logoColor=white)](https://github.com/Ga3TH/PortFolio)
+[![Disponible](https://img.shields.io/badge/Stage%20%26%20alternance-Ouvert%20aux%20opportunités-0F766E?style=flat-square)](mailto:gaethan.prual@gmail.com)
 
 </div>
 
-<br>
+---
 
-## 👋 À propos
+## À propos
 
-- 🎓 Étudiant en **BTS SIO, option SLAM**, à Saint-Brieuc
-- 💻 Je travaille principalement avec **HTML/Css**, **PHP / CodeIgniter 4**, **Node.js**, **JavaScript**, **MySQL** et **Kotlin** (En Cours)
-- 🚀 J'aime construire des applications complètes, du schéma de base de données à l'interface
-- 🛠️ J'ai fait un stage chez un vendeur de pièces auto — développement d'une boutique **WooCommerce**, **MySQL**, **WordPress**
-- 🎯 À la recherche d'un **stage / alternance** en développement web
+Étudiant en **BTS Services Informatiques aux Organisations, option SLAM**, à Saint-Brieuc, je m’intéresse au développement d’applications utiles et bien structurées. J’aime comprendre un besoin, concevoir les données et construire une solution complète, du serveur à l’expérience utilisateur.
 
-<br>
+Lors d’un stage chez un vendeur de pièces automobiles, j’ai participé au développement d’une boutique **WooCommerce** avec **WordPress** et **MySQL**. Je continue à développer mes compétences à travers des projets personnels et scolaires.
 
-## 🗂️ Projets
+Je recherche une opportunité de **stage ou d’alternance en développement**.
 
-| Projet | Description | Stack |
-|---|---|---|
-| [**Atlantik**](https://github.com/Ga3TH/web-Atlantik) | Réservation de traversées maritimes | `CodeIgniter 4` `PHP` `MySQL` |
-| [**Finder**](https://github.com/Ga3TH/projet-finder) | API de réservation d'hôtels | `Node.js` `Prisma` `MySQL` |
-| [**Log Watch**](https://github.com/Ga3TH/projet-logwatch) | Outil de surveillance de logs | `Python` |
+## Projets sélectionnés
 
-<br>
+| Projet | Ce que j’y développe | Technologies |
+|:--|:--|:--|
+| [**Atlantik**](https://github.com/Ga3TH/web-Atlantik) | Application de réservation de traversées maritimes | `PHP` · `CodeIgniter 4` · `MySQL` |
+| [**Finder**](https://github.com/Ga3TH/projet-finder) | API de réservation d’hôtels et de chambres | `Node.js` · `Prisma` · `MySQL` |
+| [**Log Watch**](https://github.com/Ga3TH/projet-logwatch) | Outil de surveillance de fichiers journaux | `Python` |
+| [**Portfolio**](https://github.com/Ga3TH/PortFolio) | Présentation de mon parcours et de mes réalisations | `HTML` · `CSS` |
 
-## 🧰 Stack technique
+## Compétences techniques
 
-**Langages & Back-end**
+**Développement**<br>
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter%204-EF4223?style=flat-square&logo=codeigniter&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222222)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin%20(en%20cours)-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+**Web & données**<br>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
 
-**Front-end & CMS**
+**Outils**<br>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+## Me contacter
 
-**Bases de données & Outils**
+Pour échanger au sujet d’un stage, d’une alternance ou d’un projet :
 
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
-
-<br>
-
-## 📊 Statistiques GitHub
+**[gaethan.prual@gmail.com](mailto:gaethan.prual@gmail.com)** · [GitHub](https://github.com/Ga3TH) · [Portfolio](https://github.com/Ga3TH/PortFolio)
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ga3TH&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
-<img src="https://streak-stats.demolab.com/?user=Ga3TH&theme=tokyonight&hide_border=true" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ga3TH&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="49%" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ga3TH&theme=tokyonight&no-frame=true&row=1&column=6" width="90%" />
+<sub>Merci de votre visite · Gaëthan Prual</sub>
 
 </div>
-
-<br>
-
-## 💬 Citations du moment
-
-<div align="center">
-
-[![Quotes](https://readme-typing-svg.demolab.com/?font=Georgia&size=16&pause=2500&duration=3500&color=8FB3E8&center=true&vCenter=true&width=600&lines=La+perfection+est+atteinte+quand+il+n%27y+a+plus+rien+a+retirer.+-+Saint-Exupery;Le+code+est+comme+l%27humour.+Quand+tu+dois+l%27expliquer%2C+c%27est+mauvais.+-+Cory+House;Parler%2C+c%27est+facile.+Montrez-moi+le+code.+-+Linus+Torvalds;Un+bon+code+est+sa+propre+meilleure+documentation.+-+Steve+McConnell;Avant+tout%2C+resous+le+probleme.+Ensuite%2C+ecris+le+code.+-+John+Johnson)](https://git.io/typing-svg)
-
-</div>
-
-<br>
-
-## 📫 Me contacter
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaethan.prual@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ga3TH)
